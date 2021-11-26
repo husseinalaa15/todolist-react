@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/husseinalaa15/todolist-react.git/static/css/main.c6e19ffc.chunk.css",
-    "main.js": "/husseinalaa15/todolist-react.git/static/js/main.110b33e1.chunk.js",
-    "main.js.map": "/husseinalaa15/todolist-react.git/static/js/main.110b33e1.chunk.js.map",
-    "runtime-main.js": "/husseinalaa15/todolist-react.git/static/js/runtime-main.02f5379d.js",
-    "runtime-main.js.map": "/husseinalaa15/todolist-react.git/static/js/runtime-main.02f5379d.js.map",
-    "static/js/2.1abf8505.chunk.js": "/husseinalaa15/todolist-react.git/static/js/2.1abf8505.chunk.js",
-    "static/js/2.1abf8505.chunk.js.map": "/husseinalaa15/todolist-react.git/static/js/2.1abf8505.chunk.js.map",
-    "index.html": "/husseinalaa15/todolist-react.git/index.html",
-    "static/css/main.c6e19ffc.chunk.css.map": "/husseinalaa15/todolist-react.git/static/css/main.c6e19ffc.chunk.css.map",
-    "static/js/2.1abf8505.chunk.js.LICENSE.txt": "/husseinalaa15/todolist-react.git/static/js/2.1abf8505.chunk.js.LICENSE.txt"
+    "main.css": "/husseinalaa15/todolist-react/static/css/main.c6e19ffc.chunk.css",
+    "main.js": "/husseinalaa15/todolist-react/static/js/main.110b33e1.chunk.js",
+    "main.js.map": "/husseinalaa15/todolist-react/static/js/main.110b33e1.chunk.js.map",
+    "runtime-main.js": "/husseinalaa15/todolist-react/static/js/runtime-main.88596140.js",
+    "runtime-main.js.map": "/husseinalaa15/todolist-react/static/js/runtime-main.88596140.js.map",
+    "static/js/2.1abf8505.chunk.js": "/husseinalaa15/todolist-react/static/js/2.1abf8505.chunk.js",
+    "static/js/2.1abf8505.chunk.js.map": "/husseinalaa15/todolist-react/static/js/2.1abf8505.chunk.js.map",
+    "index.html": "/husseinalaa15/todolist-react/index.html",
+    "static/css/main.c6e19ffc.chunk.css.map": "/husseinalaa15/todolist-react/static/css/main.c6e19ffc.chunk.css.map",
+    "static/js/2.1abf8505.chunk.js.LICENSE.txt": "/husseinalaa15/todolist-react/static/js/2.1abf8505.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.02f5379d.js",
+    "static/js/runtime-main.88596140.js",
     "static/js/2.1abf8505.chunk.js",
     "static/css/main.c6e19ffc.chunk.css",
     "static/js/main.110b33e1.chunk.js"
