@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/husseinalaa15/todolist-react.git/static/css/main.c6e19ffc.chunk.css",
-    "main.js": "/husseinalaa15/todolist-react.git/static/js/main.110b33e1.chunk.js",
-    "main.js.map": "/husseinalaa15/todolist-react.git/static/js/main.110b33e1.chunk.js.map",
-    "runtime-main.js": "/husseinalaa15/todolist-react.git/static/js/runtime-main.02f5379d.js",
-    "runtime-main.js.map": "/husseinalaa15/todolist-react.git/static/js/runtime-main.02f5379d.js.map",
-    "static/js/2.1abf8505.chunk.js": "/husseinalaa15/todolist-react.git/static/js/2.1abf8505.chunk.js",
-    "static/js/2.1abf8505.chunk.js.map": "/husseinalaa15/todolist-react.git/static/js/2.1abf8505.chunk.js.map",
-    "index.html": "/husseinalaa15/todolist-react.git/index.html",
-    "static/css/main.c6e19ffc.chunk.css.map": "/husseinalaa15/todolist-react.git/static/css/main.c6e19ffc.chunk.css.map",
-    "static/js/2.1abf8505.chunk.js.LICENSE.txt": "/husseinalaa15/todolist-react.git/static/js/2.1abf8505.chunk.js.LICENSE.txt"
+    "main.css": "/todolist-react/static/css/main.c6e19ffc.chunk.css",
+    "main.js": "/todolist-react/static/js/main.110b33e1.chunk.js",
+    "main.js.map": "/todolist-react/static/js/main.110b33e1.chunk.js.map",
+    "runtime-main.js": "/todolist-react/static/js/runtime-main.1f81ec24.js",
+    "runtime-main.js.map": "/todolist-react/static/js/runtime-main.1f81ec24.js.map",
+    "static/js/2.1abf8505.chunk.js": "/todolist-react/static/js/2.1abf8505.chunk.js",
+    "static/js/2.1abf8505.chunk.js.map": "/todolist-react/static/js/2.1abf8505.chunk.js.map",
+    "index.html": "/todolist-react/index.html",
+    "static/css/main.c6e19ffc.chunk.css.map": "/todolist-react/static/css/main.c6e19ffc.chunk.css.map",
+    "static/js/2.1abf8505.chunk.js.LICENSE.txt": "/todolist-react/static/js/2.1abf8505.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.02f5379d.js",
+    "static/js/runtime-main.1f81ec24.js",
     "static/js/2.1abf8505.chunk.js",
     "static/css/main.c6e19ffc.chunk.css",
     "static/js/main.110b33e1.chunk.js"
